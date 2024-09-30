@@ -1,4 +1,4 @@
-# Welcome to the Polaris Development! 🌟
+# Welcome to the Polaris Development! ∞
 
 Welcome to the official GitHub profile of Polaris! Here, you'll find a collection of innovative software projects and tools developed by our dedicated team. Whether you're a developer, a client, or simply curious, we're excited to share our work with you.
 

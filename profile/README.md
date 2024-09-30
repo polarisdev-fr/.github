@@ -26,6 +26,6 @@ Have questions or need support? Don't hesitate to reach out to us:
 
 - **Website**: [polarisdev.fr](https://www.polarisdev.fr)
 - **Discord**: [Join our community](https://discord.com/invite/XzpfdfzPnd)
-- **Email**: [support@polarisdev.fr](mail:support@polarisdev.fr)
+- **Email**: [contact@polarisdev.fr](mail:contact@polarisdev.fr)
 
 Thank you for visiting our GitHub profile. Let's innovate together! 🚀

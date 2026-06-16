@@ -1,31 +1,39 @@
-# Welcome to the Polaris Development! ∞
+# Polaris DEV ∞
 
-Welcome to the official GitHub profile of Polaris! Here, you'll find a collection of innovative software projects and tools developed by our dedicated team. Whether you're a developer, a client, or simply curious, we're excited to share our work with you.
+### *Sovereign Software Infrastructure & Modern Web Solutions*
 
-## About Polaris
+Welcome to **Polaris**, an independent studio dedicated to crafting performant, scalable, and self-hosted digital ecosystems. We build the tools that empower developers and businesses to regain control of their infrastructure.
 
-At Polaris, we specialize in creating cutting-edge software solutions designed to solve real-world problems. Our mission is to push the boundaries of technology through continuous innovation and collaboration.
+## Our Tech DNA
 
-## What We Do
+We believe in modern, type-safe, and high-performance stacks. Our current core focus areas include:
 
-- **Software Development**: We design and build custom software solutions tailored to meet your unique needs.
-- **Open Source Projects**: Contributing to the community is important to us. Explore our open-source projects and feel free to contribute!
-- **Support & Services**: We offer dedicated support and services to help you make the most of our software.
+* **Modern Web**: Next.js 16, React 19, Tailwind v4.
+* **Infrastructure**: Docker Swarm, Traefik, Self-hosted Cloud Native stacks.
+* **DevOps/IaC**: Terraform, Proxmox virtualization, and automated deployment pipelines.
+* **Quality**: High-fidelity UI/UX and rigorous architecture standards.
 
-## Our Projects
+## Featured Projects
 
-Check out our repositories to explore our latest projects, ranging from web applications and tools to libraries and frameworks. We're always working on something new, so be sure to watch and star the repositories that interest you!
+* **[Everydance](https://everydance.fr)**: Our flagship web application built for the next generation of choreography management (Next.js 16 + React 19).
+* *Explore more in our [Repositories](https://github.com/orgs/polarisdev-fr/repositories).*
+
+## Our Mission
+
+We don't just write code; we architect solutions. We prioritize open-source principles, sovereignty, and code that doesn't just work—it scales. Whether you are looking for a bespoke mobile app or a robust backend infrastructure, Polaris is built to deliver.
 
 ## Get Involved
 
-We're always looking for passionate developers to join us in our journey. If you're interested in contributing to any of our projects, feel free to fork, submit issues, or create pull requests. Your contributions are highly valued!
+Innovation thrives on collaboration. Whether you want to contribute to our open-source tools, open an issue, or suggest a feature, we welcome the community to participate.
 
-## Contact Us
+* [Fork us on GitHub](https://github.com/polarisdev-fr)
+* [Join our community on Discord](https://discord.com/invite/XzpfdfzPnd)
 
-Have questions or need support? Don't hesitate to reach out to us:
+## Contact
 
-- **Website**: [polarisdev.fr](https://www.polarisdev.fr)
-- **Discord**: [Join our community](https://discord.com/invite/XzpfdfzPnd)
-- **Email**: [contact@polarisdev.fr](mail:contact@polarisdev.fr)
+Ready to build something extraordinary?
 
-Thank you for visiting our GitHub profile. Let's innovate together! 🚀
+* **Web**: [polarisdev.fr](https://polarisdev.fr)
+* **Email**: [contact@polarisdev.fr](mailto:hello@polarisdev.fr)
+
+---

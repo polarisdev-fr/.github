@@ -57,5 +57,3 @@ Have a project in mind, an issue to submit, or looking to contribute?
 <div align="center">
   <sub>Built with autonomy in mind by Polaris DEV.</sub>
 </div>
-
-```

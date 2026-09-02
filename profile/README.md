@@ -30,7 +30,6 @@ DevOps/IaC  :: Terraform • CI/CD Pipelines • GitOps
 
 ### 🚀 Flagship & Active Initiatives
 
-* **[Everydance](https://everydance.fr)** — Next-generation choreography and event management platform. Powered by Next.js 16, React 19, and full-stack automation.
 * **Infrastructure Core** — Sovereign, bare-metal, and virtualized private cloud workflows orchestrated via Proxmox and Docker.
 * **Open Tools & Modules** — Reusable utilities, templates, and deployment recipes designed for high-availability self-hosting.
 

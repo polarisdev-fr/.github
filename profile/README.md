@@ -50,7 +50,7 @@ DevOps/IaC  :: Terraform • CI/CD Pipelines • GitOps
 Have a project in mind, an issue to submit, or looking to contribute?
 
 * **Website**: [polarisdev.fr](https://polarisdev.fr)
-* **Inquiries**: [contact@polarisdev.fr](mailto:hello@polarisdev.fr)
+* **Inquiries**: [hello@polarisdev.fr](mailto:hello@polarisdev.fr)
 * **Community**: [Join our Discord](https://discord.gg/97P2CawwcN)
 
 <div align="center">
